@@ -1,0 +1,4 @@
+{
+   "rewrites": [],
+   "env": ["MONGODB_NAME", "MONGODB_URI"]
+}
